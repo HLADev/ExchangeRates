@@ -1,1 +1,3 @@
-Android приложение "Курс валют ЦБ РФ"
+- Retrofit2;
+- Converter-simplexml;
+- RecyclerView.
